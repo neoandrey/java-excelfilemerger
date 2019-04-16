@@ -1,0 +1,3 @@
+C:\Progra~1\Java\jdk1.8.0_25\bin\java -Xms512M -Xmx2000M -cp bin;lib/poi-3.10-FINAL-20140208.jar;lib/xmlbeans-2.3.0.jar;lib/commons-codec-1.5.jar;lib/commons-logging-1.1.jar;lib/dom4j-1.6.1.jar;lib/junit-4.11.jar;lib/log4j-1.2.13.jar;lib/poi-ooxml-3.5-FINAL.jar;lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar;lib/stax-api-1.0.1.jar ExcelFileMerger -s "C:\Users\mobolaji.aina\Documents\New folder" -t 'results\unreconciled_transactions.xlsx'
+
+pause
